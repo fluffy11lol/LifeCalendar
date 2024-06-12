@@ -1,0 +1,8 @@
+{
+  "name": "Anton",
+  "birthdate": {
+    "day": 5,
+    "month": 11,
+    "year": 2005
+  }
+}
